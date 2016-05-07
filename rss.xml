@@ -4,8 +4,15 @@
         <description><![CDATA[João Samsó Waltrick]]></description>
         <link>https://thegrid.ai/joao-samso-waltrick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 22:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 22:21:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joao-samso-waltrick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02716c50-a787-410c-b520-90b2fab408c5.jpg">]]></description>
+            <link>https://thegrid.ai/joao-samso-waltrick/como-sera-joaozinho-todavia-no-lo-sabemos/index.html</link>
+            <guid isPermaLink="false">b13091e9-e63f-45de-be58-2841add43f8c</guid>
+            <pubDate>Sat, 07 May 2016 22:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fefc80e1-c9a2-4869-8234-327d18e6ebd3.jpg">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/joao-samso-waltrick/la-madre-de-joaozinho-lo-espera-con-mucha-alegria-y-preparan/index.html</link>
             <guid isPermaLink="false">a1ca6d0a-65fa-4e76-b3ea-2639bc44c8da</guid>
             <pubDate>Sat, 07 May 2016 21:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02716c50-a787-410c-b520-90b2fab408c5.jpg">]]></description>
-            <link>https://thegrid.ai/joao-samso-waltrick/como-sera-joaozinho-todavia-no-lo-sabemos/index.html</link>
-            <guid isPermaLink="false">b13091e9-e63f-45de-be58-2841add43f8c</guid>
-            <pubDate>Sat, 07 May 2016 21:23:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
