@@ -1,0 +1,28 @@
+name: João Samsó Waltrick
+favicon: null
+layout_spectrum: 0.3535953569225967
+typography_spectrum: 0.4915327290073037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4079241114668548
+  lightness: 0.8103783403057605
+  saturation: 0.9709851250518113
+  rhythmicContrast: 0.9523677441757172
+purpose: []
